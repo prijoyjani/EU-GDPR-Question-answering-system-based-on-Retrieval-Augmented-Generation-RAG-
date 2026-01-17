@@ -10,3 +10,6 @@ Presentation -  https://docs.google.com/presentation/d/15wPmS__OGmuYGUSHoBB2t4dz
 Report - https://docs.google.com/document/d/13zCBf_Qt25mlVIqO89cEqMFu7hksIoVvnRXu9fTcpKA/edit?usp=sharing 
 
 Video demo/presentation- https://drive.google.com/file/d/1-lqfbq_NuBJU1xV1EpXtegIwYmmZu9lp/view?usp=sharing 
+
+## Disclaimer
+This project is for academic purposes only and does not provide legal advice.
